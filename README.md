@@ -6,4 +6,4 @@
 <br>
 🚀 Eager to innovate and create meaningful projects. Constantly seeking opportunities to learn and grow in the tech industry.
 
-## MY SKILLS
+### MY SKILLS
