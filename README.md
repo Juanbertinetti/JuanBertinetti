@@ -9,6 +9,7 @@
 ### MY SKILLS
 
   +Languages
+  <br>
   ![JavaScript-323330](https://github.com/Juanbertinetti/JuanBertinetti/assets/123510819/e2410888-c1a6-4e66-9c7f-cd340c97d077)
 
   <br>
