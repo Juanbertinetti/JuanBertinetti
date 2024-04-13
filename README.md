@@ -9,7 +9,10 @@
 ### MY SKILLS
 
   +Languages
+  <br>
   +Databases
-  https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+ <img href="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></img>
+  <br>
   +Cloud Servers
+  <br>
   +Tools
