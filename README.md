@@ -8,14 +8,23 @@
 
 ### MY SKILLS
 
-  +Languages
+  Languages
   <br>
   ![JavaScript-323330](https://github.com/Juanbertinetti/JuanBertinetti/assets/123510819/e2410888-c1a6-4e66-9c7f-cd340c97d077)
+  ![C#-239120](https://github.com/Juanbertinetti/JuanBertinetti/assets/123510819/6b540f0b-ab0f-496c-9b3d-d7800bb0a0ee)
+  ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242343f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465]          (https://github.com/Juanbertinetti/JuanBertinetti/assets/123510819/0c8a41af-7e7e-4eee-854c-b4d6b6085031)
 
   <br>
-  +Databases
+  Libraries
   <br>
-  (https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-  +Cloud Servers
+  ![NET-512BD4](https://github.com/Juanbertinetti/JuanBertinetti/assets/123510819/7a11741f-7367-4f45-96d1-c372054b1253)
+
   <br>
-  +Tools
+  Databases
+  <br>
+  <br>
+  Cloud Servers
+  <br>
+  <br>
+  Tools
+  <br>
