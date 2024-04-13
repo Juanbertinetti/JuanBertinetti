@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/juan-cruz-bertinetti-6372141ba/">Linkedin</a>
 <!--
 **Juanbertinetti/JuanBertinetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
