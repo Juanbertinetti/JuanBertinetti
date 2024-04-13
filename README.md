@@ -1,4 +1,4 @@
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465](https://github.com/Juanbertinetti/JuanBertinetti/assets/123510819/cab3698b-b35b-4efd-8359-58c30cb69142)![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465](https://github.com/Juanbertinetti/JuanBertinetti/assets/123510819/c94f3b52-a1a6-4f0e-96b0-149e95c85883)### Hi there 👋
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465](https://github.com/Juanbertinetti/JuanBertinetti/assets/123510819/cab3698b-b35b-4efd-8359-58c30cb69142)![### Hi there 👋
 
 [Linkedin](https://www.linkedin.com/in/juan-cruz-bertinetti-6372141ba/)
 
@@ -13,7 +13,7 @@
 - Languages
   <br>
   ![HTML5-E34F26](https://github.com/Juanbertinetti/JuanBertinetti/assets/123510819/5468506e-6a03-4ec2-a9be-5456adfe966c)
-[![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+  68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465](https://github.com/Juanbertinetti/JuanBertinetti/assets/123510819/c94f3b52-a1a6-4f0e-96b0-149e95c85883)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
