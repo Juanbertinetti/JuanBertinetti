@@ -11,8 +11,7 @@
   +Languages
   <br>
   +Databases
-[ <img href="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></img>
-](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  <br>
+(https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  <br>
   +Cloud Servers
   <br>
   +Tools
