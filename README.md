@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <a href="https://www.linkedin.com/in/juan-cruz-bertinetti-6372141ba/">Linkedin</a>
+<!-----------------------------------------------------------------------------------------------------
 <p>My name is Juan Cruz Bertinetti. I'm a software engineering student living in Cordoba, Argentina.</p>
-<!-- 
 **Juanbertinetti/JuanBertinetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## About me
 
