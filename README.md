@@ -1,3 +1,13 @@
+### Hi there 👋
+
+[Linkedin](https://www.linkedin.com/in/juan-cruz-bertinetti-6372141ba/)
+
+-----------------------------------------------------------------------------------------------------
+
+🌱 My name is Juan Cruz Bertinetti. I'm a software engineering student living in Cordoba, Argentina.
+<br>
+🚀 Eager to innovate and create meaningful projects. Constantly seeking opportunities to learn and grow in the tech industry.
+
 ### MY SKILLS
 
   Languages
@@ -6,6 +16,8 @@
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
   <br>
   Libraries
   <br>
@@ -15,7 +27,6 @@
   <br>
   Databases
   <br>
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   
   <br>
   Cloud Servers
