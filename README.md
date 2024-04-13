@@ -17,6 +17,8 @@
   <br>
   Libraries
   <br>
+  ![NET-512BD4 (1)](https://github.com/Juanbertinetti/JuanBertinetti/assets/123510819/0ffa44a5-f746-45bc-acc3-f087421c6b4e)
+
   
 
   <br>
