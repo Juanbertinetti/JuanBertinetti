@@ -12,13 +12,13 @@
 
   Languages
   <br>
-  ![JavaScript](https://github.com/Juanbertinetti/JuanBertinetti/blob/main/assets/123510819/e2410888-c1a6-4e66-9c7f-cd340c97d077.png)
-  ![C#](https://github.com/Juanbertinetti/JuanBertinetti/blob/main/assets/123510819/6b540f0b-ab0f-496c-9b3d-d7800bb0a0ee.png)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   
   <br>
   Databases
   <br>
-  ![MySQL](https://github.com/Juanbertinetti/JuanBertinetti/blob/main/assets/123510819/311c8909-bb16-41b5-babf-155628095fdf.png)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   
   <br>
   Cloud Servers
