@@ -21,7 +21,8 @@
   <br>
   Databases
   <br>
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
   <br>
   Cloud Servers
   <br>
