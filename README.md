@@ -17,7 +17,7 @@
   <br>
   Libraries
   <br>
-  ![NET-512BD4](https://github.com/Juanbertinetti/JuanBertinetti/assets/123510819/7a11741f-7367-4f45-96d1-c372054b1253)
+  
 
   <br>
   Databases
@@ -28,5 +28,5 @@
   <br>
   Tools
   <br>
-  ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465](https://github.com/Juanbertinetti/JuanBertinetti/assets/123510819/dd2128f3-5d6d-4fd9-90a1-c73562709b5f)
+
 
