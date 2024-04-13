@@ -7,3 +7,9 @@
 🚀 Eager to innovate and create meaningful projects. Constantly seeking opportunities to learn and grow in the tech industry.
 
 ### MY SKILLS
+
+  +Languages
+  +Databases
+  https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+  +Cloud Servers
+  +Tools
